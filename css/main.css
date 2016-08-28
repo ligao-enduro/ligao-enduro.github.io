@@ -1,0 +1,28 @@
+body{background-color: black!important; font-family:'sans-serif';}
+/*link*/
+.content a:hover{color:rgba(35,50,16,1);text-decoration: none;}
+/*header*/
+.header{margin-top:3.5% !important;clear:both;}
+.navbar-header a{font-family:'bevan';font-size:2em; color:rgba(139,196,63,1) !important;}
+.nav-links {float:right; font-family:'segoe script';}
+.nav-links a:hover{color:rgba(139,196,63,1) !important;}
+/*content*/
+.content{
+	background-color:rgba(70,140,15,1);
+	padding-top:45%;
+	padding-bottom:2%;
+}
+.content .events h1{text-align:center; border-bottom:2px solid rgba(35,50,16,1);padding-bottom: 1%;font-family:'bevan'; }
+.row.content-row{	background-color:rgba(139,196,63,1); padding:.2%;}
+.content-row h2{font-family:'bevan';}
+.content-row p a{font-family:'oxygen';}
+.content-row li{font-family:'oxygen';}
+.cont-right{border-left: 1px dotted rgba(35,50,16,1);	background-color:rgba(139,196,63,1);}
+/*contact*/
+.contact{background-color:rgba(51,54,48,1);color:white; padding-bottom:5%;}
+.contact h1{font-family:'bevan';}
+.contact p{font-family:'oxygen';}
+
+.footer{}
+
+	.cright{text-align:center;color:white;background-color:black;}
